@@ -27,7 +27,7 @@ The objective of this project is to design an interactive and visually engaging 
  2.Sales analysis by weekday and weekend
 •	Segment sales data into weekdays and weekends to analyse performance variation.
     
-3. Sales analysis by store location
+ 3. Sales analysis by store location
 •	Visualize sales data by different store locations
 •	Include month-over-month (MoM) difference metrices based on the selected month in the slicer.
 •	Highlight month-on-month sales increase or decrease for each store location to identify trends.
@@ -35,8 +35,8 @@ The objective of this project is to design an interactive and visually engaging 
 4.Percentage of Sales by Pizza size
 •	Generate a pie chart that represents the percentage of sales attribute to different pizza size.
 •	This chart will help us understand customer preferences for pizza sizes and their impact on sales.
-5.Daily Sales analysis with Average Line
 
+5.Daily Sales analysis with Average Line
 •	Display daily sales for the selected month with a line chart.
 •	Incorporate an average line on the charts to represent the average daily sales.
 •	Highlights bars exceeding or failing below the average sales to identify exceptional sales day.
